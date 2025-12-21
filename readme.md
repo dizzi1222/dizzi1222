@@ -1,17 +1,20 @@
 <h1 align="center">Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h1>
 
-<h3 align="center">I'm a nvim backend && fronted developer that loves workaround</h3>
+<h3 align="center">I'm a nvim backend && fronted developer who enjoys deep customization and system tweaking"</h3>
 
 <div align="center">
 	<img align="left" src="/icons/tech/javascript.png" alt="javascript" height="30" />
 	<img align="left" src="/icons/tech/typescript.png" alt="typescript" height="30" />
-	<img align="left" src="/icons/tech/vue.png" alt="vue" height="30" />
-	<img align="left" src="/icons/tech/svelte.png" alt="svelte" height="30" />
+	<!-- <img align="left" src="/icons/tech/vue.png" alt="vue" height="30" /> -->
+	<!-- <img align="left" src="/icons/tech/svelte.png" alt="svelte" height="30" /> -->
 	<img align="left" src="/icons/tech/react.png" alt="react" height="30" />
 	<img align="left" src="/icons/tech/node.png" alt="node" height="30" />
-	<img align="left" src="/icons/tech/deno.png" alt="deno" height="30" />
-	<img align="left" src="/icons/tech/rust.png" alt="rust" height="30" />
+	<!-- <img align="left" src="/icons/tech/deno.png" alt="deno" height="30" /> -->
+	<!-- <img align="left" src="/icons/tech/rust.png" alt="rust" height="30" /> -->
+	<img align="left" src="/icons/tech/devicon--neovim.svg" alt="node" height="30" />
+	<img align="left" src="/icons/tech/devicon--hyprland.svg" alt="node" height="30" />
+	<img align="left" src="/icons/tech/devicon--arch.svg" alt="node" height="30" />
 </div>
 
 <br>
@@ -20,15 +23,14 @@
 ```json
 {
   "profile": {
-    "name": "Gil Rudolf Härdi",
-    "os": ["Arch Hyprland", "WSL" ]
+    "name": "Diego Samuel Härdi Santana",
+    "os": ["Arch, Hyprland", "WSL" ]
     "shell": ["kitty/warp terminal", "zsh"],
     "editors": ["neovim", "antigravity"],
     "programing_languages": ["typescript", "javascript", "lua"],
-    "frameworks": ["react", "svelte", "vue"],
+    "frameworks": ["react"],
     "hobbies": [
       "watch series, anime or streaming videos",
-      "play videogames",
       "listen music",
       "learn new things",
       "keep learning further",
