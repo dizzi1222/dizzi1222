@@ -13,8 +13,9 @@
 	<!-- <img align="left" src="/icons/tech/deno.png" alt="deno" height="30" /> -->
 	<!-- <img align="left" src="/icons/tech/rust.png" alt="rust" height="30" /> -->
 	<img align="left" src="/icons/tech/devicon--neovim.svg" alt="node" height="30" />
-	<img align="left" src="/icons/tech/devicon--hyprland.svg" alt="node" height="30" />
-	<img align="left" src="/icons/tech/devicon--arch.svg" alt="node" height="30" />
+	<img align="left" src="/icons/tech/devicon--hyprland.svg" alt="hyprland DOTFILES" height="30" />
+	<img align="left" src="/icons/tech/devicon--arch.svg" alt="arch best distro 🙏 (also NixOS)" height="30" />
+	<img align="left" src="/icons/tech/devicon--linux.svg" alt="linux enjoyer issues" height="30" />
 </div>
 
 <br>
