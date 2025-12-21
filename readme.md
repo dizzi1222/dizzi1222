@@ -31,7 +31,8 @@
     "programing_languages": ["typescript", "javascript", "lua"],
     "frameworks": ["react"],
     "hobbies": [
-      "watch series, anime or streaming videos",
+      "watch series, mangas or streaming videos",
+      "play videogames",
       "listen music",
       "learn new things",
       "keep learning further",
