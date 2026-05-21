@@ -27,7 +27,7 @@
   "profile": {
     "name": "Diego Samuel Härdi Santana",
     "os": ["Arch, Hyprland", "WSL" ]
-    "shell": ["kitty/warp terminal", "zsh"],
+    "shell": ["kitty", "zsh"],
     "editors": ["neovim", "antigravity"],
     "programing_languages": ["typescript", "javascript", "lua"],
     "frameworks": ["react"],
